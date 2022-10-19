@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Darklight-ui/portfolio-2.0.git/static/css/main.7ec0f8ef.css",
+    "main.js": "/Darklight-ui/portfolio-2.0.git/static/js/main.7c9d074b.js",
+    "static/media/IMG_0055.jpeg": "/Darklight-ui/portfolio-2.0.git/static/media/IMG_0055.b4cbb633e41e2f51bb63.jpeg",
+    "static/media/R.png": "/Darklight-ui/portfolio-2.0.git/static/media/R.dbc3baa7e405494219e6.png",
+    "static/media/wordpress-logo11.png": "/Darklight-ui/portfolio-2.0.git/static/media/wordpress-logo11.8be7749da6c714d49c9d.png",
+    "static/media/685-6854970_react-logo-png-png-download-logo-png-reactjs.png": "/Darklight-ui/portfolio-2.0.git/static/media/685-6854970_react-logo-png-png-download-logo-png-reactjs.7a897455605983fd63ec.png",
+    "static/media/R.jpg": "/Darklight-ui/portfolio-2.0.git/static/media/R.4e82b110901bab6bc99a.jpg",
+    "static/media/cv.pdf": "/Darklight-ui/portfolio-2.0.git/static/media/cv.cd5dc309580d07575d67.pdf",
+    "static/media/node-logo-png-6.jpg": "/Darklight-ui/portfolio-2.0.git/static/media/node-logo-png-6.d7859620c540992399c9.jpg",
+    "static/media/css-3-logo-clipart.jpg": "/Darklight-ui/portfolio-2.0.git/static/media/css-3-logo-clipart.e3d2f1f5297428b0779c.jpg",
+    "static/media/github-logo.png": "/Darklight-ui/portfolio-2.0.git/static/media/github-logo.4a47a5edac39eaa8aa80.png",
+    "index.html": "/Darklight-ui/portfolio-2.0.git/index.html",
+    "main.7ec0f8ef.css.map": "/Darklight-ui/portfolio-2.0.git/static/css/main.7ec0f8ef.css.map",
+    "main.7c9d074b.js.map": "/Darklight-ui/portfolio-2.0.git/static/js/main.7c9d074b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ec0f8ef.css",
+    "static/js/main.7c9d074b.js"
+  ]
+}
